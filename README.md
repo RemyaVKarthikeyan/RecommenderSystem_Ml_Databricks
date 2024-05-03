@@ -20,7 +20,7 @@ Note: To run Alternating Least Squares (ALS) matrix factorization using MLlib, w
 
 2.2.2.Extra features to be implemented .
 
-For this task, an implementation of the above which is correct, fully documented and clearly explained can only receive a maximum mark of 69% for this component. Higher scoring submissions will need to implement additional features, such as:
+For this task, include additional features, such as:
 
 You can receive more marks for multiple runs as part of your experiment, for example, training models with different hyperparameters.
 
